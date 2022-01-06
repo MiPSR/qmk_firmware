@@ -1,0 +1,6 @@
+MAGIC_ENABLE = no
+NKRO_ENABLE = yes
+KEYBOARD_SHARED_EP = no
+DEBOUNCE_TYPE = asym_eager_defer_pk
+VIA_ENABLE = no
+LTO_ENABLE = no
